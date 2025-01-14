@@ -60,4 +60,4 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **7.1.2** - Discord - [Stalker-GAMMA Server](https://discord.com/invite/stalker-gamma)
     - **7.1.3** - Discord - Linux support thread: [Linux Support Thread](https://discord.com/channels/912320685949300746/932079012547270746)
 - **7.2** - My Hardware/Software: AMD GPU(7900xtx)/CPU(r9), kernel - (6.12.8-arch1-1), tested on: Hyprland/KDE/Cinamon, date:12.01.2025.
-- **7.3** - Notes: Ensure all dependencies are installed and paths are correctly set.
+- **7.3** - Good luck in Zone and have a good day.

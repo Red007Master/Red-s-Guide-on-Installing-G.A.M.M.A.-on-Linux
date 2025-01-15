@@ -1,6 +1,8 @@
 # Red's-Guide-on-Installing-G.A.M.M.A.-on-Linux
 Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 
+# Alternative instalation guide by DravenusRex (older): https://github.com/DravenusRex/stalker-gamma-linux-guide
+
 # Installation Guide
 
 ## Video-companion: [youtube-guide](https://youtu.be/luAceiXojiU?si=3LdfAVYyoU9-OS7-)

@@ -63,3 +63,9 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **7.1.3** - Discord - Linux support thread: [Linux Support Thread](https://discord.com/channels/912320685949300746/932079012547270746)
 - **7.2** - My Hardware/Software: AMD GPU(7900xtx)/CPU(r9), kernel - (6.12.8-arch1-1), tested on: Hyprland/KDE/Cinamon, date:12.01.2025.
 - **7.3** - Good luck in Zone and have a good day.
+
+# Troubleshooting
+## Errors
+### Repository coruption
+    You will get `Could not reset index file to revision 'HEAD'` on first run and something like `NotADirectoryError: [Errno 20] Not a directory: 'GAMMA/downloads` on consequential runs.
+        Poisble fix:  https://github.com/Mord3rca/gamma-launcher/issues/154 and https://github.com/Mord3rca/gamma-launcher/issues/166 

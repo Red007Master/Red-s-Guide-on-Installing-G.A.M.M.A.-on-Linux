@@ -67,5 +67,13 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 # Troubleshooting
 ## Errors
 ### Repository coruption
-    You will get `Could not reset index file to revision 'HEAD'` on first run and something like `NotADirectoryError: [Errno 20] Not a directory: 'GAMMA/downloads` on consequential runs.
-        Poisble fix:  https://github.com/Mord3rca/gamma-launcher/issues/154 and https://github.com/Mord3rca/gamma-launcher/issues/166 
+    You will get:
+    ```
+    Could not reset index file to revision 'HEAD'
+    ``` 
+    on first run and something like
+    ```
+    NotADirectoryError: [Errno 20] Not a directory: 'GAMMA/downloads'
+    ```
+    on consequential runs.
+    Possible fix:  https://github.com/Mord3rca/gamma-launcher/issues/154 and https://github.com/Mord3rca/gamma-launcher/issues/166

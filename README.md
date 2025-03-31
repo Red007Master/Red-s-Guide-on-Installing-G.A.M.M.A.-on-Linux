@@ -73,3 +73,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 You will get `Could not reset index file to revision 'HEAD'` on first run and something like `NotADirectoryError: [Errno 20] Not a directory: 'GAMMA/downloads'` on consequential runs.
 
 #### *Possible fix*:  https://github.com/Mord3rca/gamma-launcher/issues/154 and https://github.com/Mord3rca/gamma-launcher/issues/166
+## Other distros:
+### openSUSE (tumbleweed)
+It works, but you will need to fight against some protection-anti-wine-system.
+And you will need to get Arch's libunrar.

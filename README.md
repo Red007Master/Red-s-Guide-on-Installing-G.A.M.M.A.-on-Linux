@@ -77,3 +77,6 @@ You will get `Could not reset index file to revision 'HEAD'` on first run and so
 ### openSUSE (tumbleweed)
 It works, but you will need to fight against some protection-anti-wine-system.
 And you will need to get Arch's libunrar.
+
+### Mint
+Known to work without any specific tinkering.

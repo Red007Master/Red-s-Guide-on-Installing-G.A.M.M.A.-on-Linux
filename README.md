@@ -7,6 +7,8 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 
 ## Video-companion: [youtube-guide](https://youtu.be/luAceiXojiU?si=3LdfAVYyoU9-OS7-)
 
+## !!!This guide asumes that you have Steam (for `steam-runtime` and base dependencies) installed and runing on your system.
+
 ## 1 - Bottles (Source: [usebottles.com](https://usebottles.com))
 - **1.1** - Install Flatpak.
 - **1.2** - Install Bottles with `flatpak install flathub com.usebottles.bottles`

@@ -33,7 +33,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 
 ## 4 - GAMMA Installation
 - **4.1** - Install GAMMA + Anomaly with `gamma-launcher full-install --anomaly ./Anomaly --gamma ./GAMMA --cache-directory ./cache`
-- **4.2** - Solve errors as they appear.
+- **4.2** - Solve dependency errors as they appear.
 
 ## 5 - GAMMA Configuration
 - **5.1** - Configure Bottles
@@ -41,7 +41,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **5.1.2** - Create bottle
     - **5.1.3** - Configure bottle (change it's runner to proton-ge-20)
 - **5.2** - Configure prefix
-    - **5.2.1** - Find prefix
+    - **5.2.1** - Find prefix of the bottle that you created
     - **5.2.2** - Install dependencies with `WINEPREFIX={your-path} winetricks cmd d3dx9 dx8vb d3dcompiler_42 d3dcompiler_43 d3dcompiler_46 d3dcompiler_47 d3dx10_43 d3dx10 d3dx11_42 d3dx11_43 dxvk quartz`
 
 ## 6 - Making GAMMA run

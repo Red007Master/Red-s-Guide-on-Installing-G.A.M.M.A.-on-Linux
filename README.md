@@ -37,9 +37,9 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 
 ## 5 - GAMMA Configuration
 - **5.1** - Configure Bottles
-    - **5.1.1** - Download runner (proton-ge-20)
+    - **5.1.1** - Download runner (proton-ge-9-20)
     - **5.1.2** - Create bottle
-    - **5.1.3** - Configure bottle (change it's runner to proton-ge-20)
+    - **5.1.3** - Configure bottle (change it's runner to proton-ge-9-20)
 - **5.2** - Configure prefix
     - **5.2.1** - Find prefix of the bottle that you created
     - **5.2.2** - Install dependencies with `WINEPREFIX={your-prefix's-path} winetricks cmd d3dx9 dx8vb d3dcompiler_42 d3dcompiler_43 d3dcompiler_46 d3dcompiler_47 d3dx10_43 d3dx10 d3dx11_42 d3dx11_43 dxvk quartz`

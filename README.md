@@ -32,8 +32,18 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 - **3.6** - Try to check gamma-launcher version with `gamma-launcher --version` solve errors as they appear.
 
 ## 4 - GAMMA Installation
-- **4.1** - Install GAMMA + Anomaly with `gamma-launcher full-install --anomaly ./Anomaly --gamma ./GAMMA --cache-directory ./cache`
-- **4.2** - Solve dependency errors as they appear.
+- **4.1** - Go into folder that you created for installing GAMMA, for example "StalkerGAMMA".
+- **4.2** - Install GAMMA + Anomaly with `gamma-launcher full-install --anomaly ./Anomaly --gamma ./GAMMA --cache-directory ./cache`
+- **4.3** - You are looking to get a file structure like this:
+```
+└── StalkerGAMMA
+    ├── Anomaly
+    ├── cache
+    ├── GAMMA
+    ├── gamma-launcher
+    └── venv
+```
+- **4.4** - Solve dependency errors as they appear.
 
 ## 5 - GAMMA Configuration
 - **5.1** - Configure Bottles

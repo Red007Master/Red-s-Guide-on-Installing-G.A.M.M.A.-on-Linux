@@ -42,11 +42,15 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **5.1.3** - Configure bottle (change it's runner to proton-ge-9-20)
 - **5.2** - Configure prefix
     - **5.2.1** - Find prefix of the bottle that you created
+        - **5.2.1.1** `Bottles` in the top menu
+        - **5.2.1.2** arrow to the right of the bottle you created
+        - **5.2.1.3** burger/`...` menu on the top right > `Browse Files...`
+        - **5.2.1.4** navigate one directory up. there should be a `bottle.yml`. the directory you are in now is the prefix path
     - **5.2.2** - Install dependencies with `WINEPREFIX={your-prefix's-path} winetricks cmd d3dx9 dx8vb d3dcompiler_42 d3dcompiler_43 d3dcompiler_46 d3dcompiler_47 d3dx10_43 d3dx10 d3dx11_42 d3dx11_43 dxvk quartz`
 
 ## 6 - Making GAMMA run
 - **6.1** - First run
-    - **6.1.1** - Add mod organ shortcut.
+    - **6.1.1** - Add mod organizer shortcut. `gamma-launcher/GAMMA/ModOrganizer.exe`
     - **6.1.2** - Start it.
     - **6.1.3** - Press next.
     - **6.1.4** - Select "Create a portable instance".
@@ -59,7 +63,8 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 - **6.2** - Second run (or continuation)
     - **6.2.1** - (Ultrawide fix (only for people with Ultrawide)).
     - **6.2.2** - Try to start GAMMA.
-    - **6.2.3** - It works.
+    - **6.2.3** - Select `DriectX 9` as `Renderer` in the anomaly launcher
+    - **6.2.4** - It works.
 
 ## 7 - End note
 - **7.1** - Additional help (Source: [AnomalyMod](https://anomalymod.com/repacks/stalker-gamma))

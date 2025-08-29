@@ -77,8 +77,9 @@ You will get `Could not reset index file to revision 'HEAD'` on first run and so
 #### *Possible fix*:  https://github.com/Mord3rca/gamma-launcher/issues/154 and https://github.com/Mord3rca/gamma-launcher/issues/166
 ## Other distros:
 ### openSUSE (tumbleweed)
-It works, but you will need to fight against some protection-anti-wine-system.
-And you will need to get Arch's libunrar.
+It works, but you will need to fight against some protection-anti-wine-system. \
+And you will need to get Arch's libunrar. \
+Hints on a working libunrar installation can be found [here](https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/6)
 
 ### Mint
 Known to work without any specific tinkering.

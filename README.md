@@ -79,23 +79,6 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 - **7.2** - My Hardware/Software: AMD GPU(7900xtx)/CPU(r9), kernel - (6.12.8-arch1-1), tested on: Hyprland/KDE/Cinamon, date:12.01.2025.
 - **7.3** - Good luck in Zone and have a good day.
 
-# Troubleshooting
-## Errors (gamma-launcher)
-### Repository coruption
-You will get `Could not reset index file to revision 'HEAD'` on first run and something like `NotADirectoryError: [Errno 20] Not a directory: 'GAMMA/downloads'` on consequential runs.
+# Troubleshooting: [here](CommonProblems/index.md)
 
-#### *Possible fix*:  https://github.com/Mord3rca/gamma-launcher/issues/154 and https://github.com/Mord3rca/gamma-launcher/issues/166
-## Other distros:
-### openSUSE (tumbleweed)
-It works, but you will need to fight against some protection-anti-wine-system. \
-And you will need to get Arch's libunrar. \
-Hints on a working libunrar installation can be found [here](https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/6)
-
-### Mint
-Known to work without any specific tinkering.
-
-### Bazzite
-Main problem would be using `gamma-launcher`, to be more precise looks like libunrar is not available to be easily/natively installed and used.   
-You have two options:
-- 1 Use Distrobox and do GAMMA install from inside of it.
-- 2 Sideload libunrar binary, more about it here https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/6 .
+# Distro-specific: [here](Distros/index.md)

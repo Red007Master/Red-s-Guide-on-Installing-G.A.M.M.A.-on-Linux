@@ -17,7 +17,7 @@ So you have two options:
 2. Use custom path for your `TMPDIR`.
 
 ### 1 Increase the size of `/tmp`. *(Not recommended)*
-You need to unmount your `/tmp` and re-mount it.
+You need to unmount your `/tmp` and re-mount it with required size.
 
 ### 2 Use custom path for your `TMPDIR`. *(Recommended)*
 Create folder in user(you) owned folder, for example external drive:

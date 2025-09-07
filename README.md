@@ -13,7 +13,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 - **1.1** - Install Flatpak.
 - **1.2** - Install Bottles with `flatpak install flathub com.usebottles.bottles`
 - **1.3** - Run (Verify it) with `flatpak run com.usebottles.bottles`
-- **2.1** - Give Bottles access to filesystem with `sudo flatpak override com.usebottles.bottles --filesystem=host`
+- **1.4** - Give Bottles access to filesystem with `sudo flatpak override com.usebottles.bottles --filesystem=host`
 
 ## 2 - Setup dir for GAMMA
 - **2.1** - Create folder where you will be installing GAMMA (You need 200GB to be safe).

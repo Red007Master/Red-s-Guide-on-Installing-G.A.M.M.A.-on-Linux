@@ -28,7 +28,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 - **3.2.0** - You shoud ignore this line at first; Next steps tested with given Python versions (including but not excluding): 3.13, 3.12, 3.11, 3.10.
 - **3.2** - Create venv with `python -m venv venv`.
 - **3.3** - Enable venv with `source ./venv/bin/activate` if you have encounter an error while doing this try again but with `bash` as your shell.
-- **3.4** - Go into gamma-launcher folder (with cd {name-of-the-folder}).
+- **3.4** - Go into gamma-launcher's folder (with cd {name-of-the-folder}).
 - **3.5** - Install gamma-launcher with `pip install .`.
 - **3.6** - Try to check gamma-launcher version with `gamma-launcher --version` solve errors as they appear.
 

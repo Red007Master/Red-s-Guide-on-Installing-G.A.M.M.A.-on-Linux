@@ -1,6 +1,3 @@
-# FOR NOW - USE MY FORK OF gamma-launcher https://github.com/Red007Master/gamma-launcher
-To see the rason: https://www.reddit.com/r/stalker/comments/1owq34u/stalker_gamma_just_got_hit_with_a_dmca (or take a look around at GAMMA's server)
-
 # Red's-Guide-on-Installing-G.A.M.M.A.-on-Linux
 Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 

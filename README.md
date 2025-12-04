@@ -81,5 +81,5 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 - **7.3** - Good luck in Zone and have a good day.
 
 # Troubleshooting: [here](CommonProblems/index.md)
-
 # Distro-specific: [here](Distros/index.md)
+# Updating: [here](Updating.md)

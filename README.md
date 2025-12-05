@@ -7,8 +7,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 
 ## Video-companion: [youtube-guide](https://youtu.be/luAceiXojiU?si=3LdfAVYyoU9-OS7-)
 
-## !!!This guide asumes that you have Steam (for `steam-runtime` and base dependencies) installed and runing on your system.
-## DO NOT USE NTFS. If you use NTFS as your FS for GAMMA - you are on your own.
+## !!! This guide assumes that you have solid general understanding of CLI and how to install/fix stuff on your system. If you need more hand-holding - refer to the video guide.
 
 ## 1 - Bottles (Source: [usebottles.com](https://usebottles.com))
 - **1.1** - Install Flatpak.

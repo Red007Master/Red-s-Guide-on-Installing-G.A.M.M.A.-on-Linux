@@ -39,11 +39,14 @@ If you use it and know how to `fix` it - be free to do so and guide me on how to
 
 But for now:
 
-## Solution:
+## Possible Solution:
 1. Delete `flatseal`.
 2. Do [1.4](https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux?tab=readme-ov-file#1---bottles-source-usebottlescom) again.
 3. Reboot.
 4. Remove MO shortcut.
 5. Add it (MO shortcut) again.
+
+## Other possible causes:
+1. Custom bottle(prefix) location.
 
 If it didn't help refer to: https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/4

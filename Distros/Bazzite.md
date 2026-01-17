@@ -5,7 +5,7 @@ You have two options:
 - 2 Sideload libunrar binary, more about it [here](https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/6).
 - 3 Use it: `export UNRAR_LIB_PATH=/REPLACE/WITH/OWN/PATH/TO/libunrar.so`, then run gamma-launcher again.
 
-##Wine related stuff:
+## Wine related stuff:
 You can use stuff wine and winetricks shipped with proton.
 Example:
 ```

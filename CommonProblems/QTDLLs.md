@@ -50,3 +50,6 @@ But for now:
 1. Custom bottle(prefix) location.
 
 If it didn't help refer to: https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/4
+
+If none of options in https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/4 worked for you - try chaning proton, newer, older, something in between, try `wine-ge-proton8-26`.
+Dyring this you are likly to brake your bottle - delete it and create new one.

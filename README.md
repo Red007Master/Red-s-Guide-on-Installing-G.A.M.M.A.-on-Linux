@@ -21,7 +21,8 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **2.2.1** - Copy path of said folder.
     - **2.2.2** - Open terminal and do `cd {path-of-your-folder}` (without {}).
 
-Use https://github.com/FaithBeam/stalker-gamma-cli to install GAMMA.
+## 3 - Installation of GAMMA
+- **3.1** - Use https://github.com/FaithBeam/stalker-gamma-cli to install GAMMA.
 
 ## 5 - GAMMA Configuration
 - **5.1** - Configure Bottles

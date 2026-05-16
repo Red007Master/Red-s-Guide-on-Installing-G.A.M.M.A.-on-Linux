@@ -23,29 +23,7 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **2.2.1** - Copy path of said folder.
     - **2.2.2** - Open terminal and do `cd {path-of-your-folder}` (without {}).
 
-## 3 - gamma-laucher (Source: [github.com/Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher))
-### (In case of gamma-launcher-related errors consult gamma-launcher's repo)
-- **3.1** - Pull repository with `git clone https://github.com/Mord3rca/gamma-launcher`.
-- **3.2.0** - You shoud ignore this line at first; Next steps tested with given Python versions (including but not excluding): 3.13, 3.12, 3.11, 3.10.
-- **3.2** - Create venv with `python -m venv venv`.
-- **3.3** - Enable venv with `source ./venv/bin/activate` if you have encounter an error while doing this try again but with `bash` as your shell.
-- **3.4** - Go into gamma-launcher's folder (with cd {name-of-the-folder}).
-- **3.5** - Install gamma-launcher with `pip install .`
-- **3.6** - Try to check gamma-launcher version with `gamma-launcher --version` solve errors as they appear.
-
-## 4 - GAMMA Installation
-- **4.1** - Go into folder that you created for installing GAMMA, for example "StalkerGAMMA".
-- **4.2** - Install GAMMA + Anomaly with `gamma-launcher full-install --anomaly ./Anomaly --gamma ./GAMMA --cache-directory ./cache`
-- **4.3** - You are looking to get a file structure like this:
-```
-└── StalkerGAMMA
-    ├── Anomaly
-    ├── cache
-    ├── GAMMA
-    ├── gamma-launcher
-    └── venv
-```
-- **4.4** - Solve dependency errors as they appear.
+Use https://github.com/FaithBeam/stalker-gamma-cli to install GAMMA.
 
 ## 5 - GAMMA Configuration
 - **5.1** - Configure Bottles
@@ -61,11 +39,6 @@ Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
     - **6.1.1** - Add mod organ shortcut.
     - **6.1.2** - Start it.
     - **6.1.3** - Press next.
-    - **6.1.4** - Select "Create a portable instance".
-    - **6.1.5** - Browse > select path of your Anomaly installation.
-    - **6.1.6** - Selected location should change to GAMMA folder.
-    - **6.1.7** - Next > Next > Finish.
-    - **6.1.8** - Get an error (Def. profile does not exist. GAMMA one will be used instead)
     - **6.1.9** - Follow through.
     - **6.1.10** - You can close it (if you want)
 - **6.2** - Second run (or continuation)

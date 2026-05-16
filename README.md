@@ -1,5 +1,3 @@
-# MAY NOT WORK AS OF 09.05.2026; Refer to GAMMA's Linux thread for more info
-
 # Red's-Guide-on-Installing-G.A.M.M.A.-on-Linux
 Red's guide on Installing G.A.M.M.A. (Anomaly modpack) on Linux.
 

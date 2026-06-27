@@ -11,4 +11,10 @@ Example:
 ```
 WINE="/var/home/$user/.var/app/com.usebottles.bottles/data/bottles/runners/ge-proton9-20/files/bin/wine" WINEPREFIX="/var/home/$user/.var/app/com.usebottles.bottles/data/bottles/bottles/stalker-gamma" winetricks cmd d3dx9 dx8vb d3dcompiler_42 d3dcompiler_43 d3dcompiler_46 d3dcompiler_47 d3dx10_43 d3dx10 d3dx11_42 d3dx11_43 dxvk quartz
 ```
-Make sure to replaced/change paths so they correspond to your systems. 
+Make sure to replaced/change paths so they correspond to your systems.
+
+## Note:
+Bazzite is a distro for 'console expiriance', not a PC one.
+Running moded games like GAMMA is NOT intended usecase, if you are here you are doing something wrong.
+
+Nevertheless - if you are going this way research documentation of distro that you are using https://docs.bazzite.gg/Installing_and_Managing_Software/Distrobox

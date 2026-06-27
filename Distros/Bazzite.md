@@ -14,7 +14,7 @@ WINE="/var/home/$user/.var/app/com.usebottles.bottles/data/bottles/runners/ge-pr
 Make sure to replaced/change paths so they correspond to your systems.
 
 ## Note:
-Bazzite is a distro for 'console expiriance', not a PC one.
+Bazzite is a distro for 'console experience', not a PC one.
 Running moded games like GAMMA is NOT intended usecase, if you are here you are doing something wrong.
 
 Nevertheless - if you are going this way research documentation of distro that you are using https://docs.bazzite.gg/Installing_and_Managing_Software/Distrobox

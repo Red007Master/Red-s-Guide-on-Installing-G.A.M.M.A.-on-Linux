@@ -1,9 +1,10 @@
 # Bazzite
 Main problem would be using `gamma-launcher`, to be more precise looks like libunrar is not available to be easily/natively installed and used.   
 You have two options:
-- 1 Use Distrobox and do GAMMA install from inside of it.
-- 2 Sideload libunrar binary, more about it [here](https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/6).
-- 3 Use it: `export UNRAR_LIB_PATH=/REPLACE/WITH/OWN/PATH/TO/libunrar.so`, then run gamma-launcher again.
+- Use Distrobox and do GAMMA install from inside of it (if you use Arch box you can follow default install procedure).
+OR
+- 1 Sideload libunrar binary, more about it [here](https://github.com/Red007Master/Red-s-Guide-on-Installing-G.A.M.M.A.-on-Linux/issues/6).
+- 2 Use it: `export UNRAR_LIB_PATH=/REPLACE/WITH/OWN/PATH/TO/libunrar.so`, then run gamma-launcher again.
 
 ## Wine related stuff:
 You can use stuff wine and winetricks shipped with proton.
